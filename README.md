@@ -1,1 +1,1 @@
-# zevnik.vaje
+# zevnik.zakljucna
