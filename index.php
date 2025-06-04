@@ -70,7 +70,7 @@
     </main>
     <footer>
         <a href="https://slovenska-kosarka.com">Slovenska košarka</a>
-        <span class="separator">|</span>
+        <span class="crta_umes">|</span>
         <a href="https://www.kzs.si">KZS</a>
     </footer>
 </body>
