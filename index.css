@@ -81,7 +81,6 @@ tabla {
 .tabela-celica {
     border: 1px solid #ddd;
     background-color: #f5f5f5;
-    border-radius: 5px;
     padding: 10px;
     text-align: center;
     width: 33.33%; /* Enakomerna širina za 3 celice */
