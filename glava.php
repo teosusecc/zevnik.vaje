@@ -10,7 +10,7 @@ echo '<div class="top-right">
             <a href="registracija.php" class="login-register">Registracija</a>
         </div>';
 } else {
-echo 'Prijavljeni: ' . htmlspecialchars($_SESSION['ime']) . ' ' . htmlspecialchars($_SESSION['priimek']);
+echo 'Prijavljeni: ' . $_SESSION['ime'] . ' ' . $_SESSION['priimek'];
 echo ' | <a href="odjava.php">Odjava</a>';
 
 }
