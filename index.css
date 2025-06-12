@@ -1,0 +1,125 @@
+body {
+    margin: 0;
+    background-color: #add8e6;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    
+}
+
+header h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.top-right {
+    top: 20px;
+    right: 15px;
+}
+
+.login-register {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    padding: 15px 10px;
+}
+
+.login-register:hover {
+    color: #007bff;
+}
+
+.zavihki {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+.zavihki a {
+    margin: 0 20px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.zavihki a:hover {
+    color: #007bff;
+}
+
+main {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+section {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+section h2 {
+    margin-top: 0;
+    color: #333;
+}
+
+section p {
+    color: #666;
+}
+
+tabla {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tabela-celica {
+
+    background-color: #f5f5f5;
+    overflow: hidden;
+    padding: 10px;
+    text-align: center;
+    width: 30%;
+}
+
+.tabela-celica img {
+    width: 100%; 
+    height: 200px; 
+    object-fit: cover; 
+}
+
+.tabela-celica h3 {
+    font-size: 15px;
+    margin: 10px 0;
+    color: #333;
+    
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 30px 0;
+    width: 100%;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+footer a:hover {
+    color: #007bff;
+}
+
+footer .separator {
+    color: white;
+    margin: 0 5px;
+}
+.prijava_prikaz{
+    text-align: right;
+}
