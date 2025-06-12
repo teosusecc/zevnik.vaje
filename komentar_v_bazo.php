@@ -12,10 +12,10 @@ $result = mysqli_query($LINK, $sql);
 if ($result) {
     echo "Uspesno vnesen komentar";
     header("refresh:1; komentar.php");
-    exit;
+    
 } else {
     echo "Napaka pri vnosu.";
     header("refresh:2; url=komentar.php");
-    exit;
+    
 }
 ?>
